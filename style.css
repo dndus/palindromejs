@@ -38,7 +38,7 @@ header p {
     border-radius: 5px;
     border: 1px solid #999;
 }
-.inputs input {
+.inputs button {
     width: 100%;
     height: 56px;
     outline: none;
