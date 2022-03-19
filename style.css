@@ -63,3 +63,7 @@ header p {
 .info-text span {
     color: #aa57cc;
 }
+button.active {
+    opacity: 1;
+    pointer-events: all;
+}
